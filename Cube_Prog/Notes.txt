@@ -1,0 +1,6 @@
+#to make the bash file excutable uses the following command
+chmod +x mybashfile
+
+#at first the satellite must be resetted by deleting the files and debug status to old date
+#to make hame acess point english language use this url
+192.168.169.1/goform/setSysLang?en
